@@ -11,6 +11,11 @@ Schloss-Wolfsbrunnenweg 35
 
 _This open source software code was developed in part in the Human Brain Project, funded from the European Union’s Horizon 2020  Framework Programme for Research and Innovation under Specific Grant Agreements  No. 785907 (Human Brain Project  SGA2)._
 
+
+__This repository has been transferred and will be further maintained at  https://github.com/HITS-MCM/tauRAMD 
+
+
+
 ## Ligand_swap_out
 A set of scripts that helps to swap out ligands in a protein-ligand complex
 

@@ -12,9 +12,7 @@ Schloss-Wolfsbrunnenweg 35
 _This open source software code was developed in part in the Human Brain Project, funded from the European Union’s Horizon 2020  Framework Programme for Research and Innovation under Specific Grant Agreements  No. 785907 (Human Brain Project  SGA2)._
 
 
-## This repository has been moved to https://github.com/HITS-MCM
-## please use the link  https://github.com/HITS-MCM/tauRAMD for the updates
-
+### This repository has been moved and will be mantained at https://github.com/HITS-MCM/tauRAMD.  Please use this link  for the updates
 
 
 ## Ligand_swap_out
